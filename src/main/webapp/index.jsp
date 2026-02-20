@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elite Experience</title>
+    <title>My WebApp Project</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;800&display=swap');
 
@@ -104,7 +104,7 @@
 
     <div class="glass-card">
         <div class="title-wrapper">
-            <h1>Hello, World.</h1>
+            <h1>Welcome to My WebApp</h1>
         </div>
         <div class="subtitle">The Next Generation</div>
         <div class="divider"></div>
